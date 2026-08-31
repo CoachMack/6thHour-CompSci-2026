@@ -1,13 +1,13 @@
 #Name:
 #Class: 6th Hour
-#Assignment: HW3
+#Assignment: HW4
 
 #1. Print "Hello World!"
 
 #2. import the 'math' library
 import math
 #3. Create two variables, x and y, that asks the user for a decimal (float) for x and an integer for y.
-x = float(input("Give me a decimal: "))
+
 #4. Create a variable with the value that is x and y added together.
 
 #5. Print the variable from #4.
