@@ -5,7 +5,7 @@
 #1. Print "Hello World!"
 
 #2. import the 'math' library
-import math
+
 #3. Create two variables, x and y, that asks the user for a decimal (float) for x and an integer for y.
 
 #4. Create a variable with the value that is x and y added together.
