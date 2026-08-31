@@ -1,5 +1,5 @@
 #Name:
-#Class: 5th Hour
+#Class: 6th Hour
 #Assignment: HW2
 
 #1. Print Hello World!
@@ -39,4 +39,3 @@ Var24 = Var15
 Var25 = 6
 
 #3. Take all the variables you labeled as "integer", add them together, and print the result.
-
