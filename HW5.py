@@ -18,6 +18,6 @@
 
 #7. Add the 1st three numbers on the sorted list together and print the sum.
 
-#8. Create a list with two strings, two variables, and two boolean values.
+#8. Create a list with two strings, two integers, and two boolean values.
 
 #9. Create a print statement that asks the user to input their own index value for the list on #8.
