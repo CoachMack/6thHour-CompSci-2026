@@ -17,6 +17,6 @@
 
 #7. Add the two numbers in the second list together and print the result.
 
-#8. Move the number back to the first list (like you did in #4 and #5 but reversed).
+#8. Add the sum from #7 to the first list.
 
 #9. Sort the first list from lowest to highest and print it.
